@@ -1,4 +1,4 @@
-var {resolve} = require('path'); //  引入node一个名为path的核心模块
+var {resolve} = require('path');
 
 module.exports = {
     mode: 'development', //  设置模式为开发模式
