@@ -1,0 +1,72 @@
+{
+  "id": "1854891",
+  "name": "1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17605419",
+      "name": "生日",
+      "font_class": "shengri",
+      "unicode": "e80f",
+      "unicode_decimal": 59407
+    },
+    {
+      "icon_id": "17605428",
+      "name": "支付",
+      "font_class": "zhifu",
+      "unicode": "e810",
+      "unicode_decimal": 59408
+    },
+    {
+      "icon_id": "17605437",
+      "name": "报告",
+      "font_class": "baogao",
+      "unicode": "e811",
+      "unicode_decimal": 59409
+    },
+    {
+      "icon_id": "17605446",
+      "name": "防护",
+      "font_class": "fanghu",
+      "unicode": "e812",
+      "unicode_decimal": 59410
+    },
+    {
+      "icon_id": "7432095",
+      "name": "左箭头",
+      "font_class": "leftarrow",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "402163",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "569130",
+      "name": "微博",
+      "font_class": "iconfontweibo",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "12496149",
+      "name": "G",
+      "font_class": "G",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "16822597",
+      "name": "飞鸟",
+      "font_class": "feiniao",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    }
+  ]
+}
